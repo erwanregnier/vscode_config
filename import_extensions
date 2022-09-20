@@ -1,0 +1,14 @@
+code --install-extension aswinkumar863.smarty-template-support
+code --install-extension BenjaminZekavica.wordpress-gutenberg-snippets
+code --install-extension bmewburn.vscode-intelephense-client
+code --install-extension claudiosanches.woocommerce
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension esbenp.prettier-vscode
+code --install-extension johnbillion.vscode-wordpress-hooks
+code --install-extension kokororin.vscode-phpfmt
+code --install-extension mblode.twig-language-2
+code --install-extension ms-azuretools.vscode-docker
+code --install-extension ms-vscode-remote.remote-containers
+code --install-extension neilbrayfield.php-docblocker
+code --install-extension usernamehw.remove-empty-lines
+code --install-extension wordpresstoolbox.wordpress-toolbox
